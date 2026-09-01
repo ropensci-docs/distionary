@@ -1,0 +1,13 @@
+{
+  "commit": {
+    "commit": "9ea2a3077c0c5fc35d7076ca8426b73014c7c0be",
+    "author": "Vincenzo Coia <vincenzo.coia@gmail.com>",
+    "time": "2026-08-02T17:22:32Z",
+    "files": 3,
+    "merge": true,
+    "message": "Merge pull request #49 from probaverse/development\n\nDevelopment"
+  },
+  "repo": "https://github.com/probaverse/distionary",
+  "pkg": "distionary",
+  "time": "2026-09-01T12:08:07Z"
+}
