@@ -1,0 +1,13 @@
+{
+  "commit": {
+    "commit": "3c301c661786b92526c462dc334511fa267e8e84",
+    "author": "Vincenzo Coia <vincenzo.coia@gmail.com>",
+    "time": "2026-09-15T07:34:43Z",
+    "files": 3,
+    "merge": false,
+    "message": "Add Vincenzo's ORCID\n\nThe ORCID identifies the author across publications and packages, and\nmatches the one discretes already carries.\n\nCo-Authored-By: Claude Opus 5 <noreply@anthropic.com>\n"
+  },
+  "repo": "https://github.com/probaverse/distionary",
+  "pkg": "distionary",
+  "time": "2026-10-15T07:41:42Z"
+}

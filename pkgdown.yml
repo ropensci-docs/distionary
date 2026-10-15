@@ -1,0 +1,13 @@
+pandoc: 3.8.3
+pkgdown: 2.2.1
+pkgdown_sha: ~
+articles:
+  evaluate: evaluate.html
+  pseudocode: pseudocode.html
+  specify-built-in: specify-built-in.html
+  specify-user-defined: specify-user-defined.html
+  support: support.html
+last_built: 2026-10-15T07:41Z
+urls:
+  reference: https://docs.ropensci.org/distionary/reference
+  article: https://docs.ropensci.org/distionary/articles
