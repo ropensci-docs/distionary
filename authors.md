@@ -1,0 +1,32 @@
+# Authors and Citation
+
+## Authors
+
+- **Vincenzo Coia**. Author, maintainer, copyright holder.
+  [](https://orcid.org/0000-0002-2930-0723)
+
+- **Amogh Joshi**. Contributor.
+
+- **Shuyi Tan**. Contributor.
+
+- **Zhipeng Zhu**. Contributor.
+
+- **olivroy**. Contributor.  
+  GitHub contributor
+
+## Citation
+
+Source:
+[`DESCRIPTION`](https://github.com/probaverse/distionary/blob/HEAD/DESCRIPTION)
+
+Coia V (2026). *distionary: Create and Evaluate Probability
+Distributions*. R package version 0.2.0,
+<https://distionary.probaverse.com/>.
+
+    @Manual{,
+      title = {distionary: Create and Evaluate Probability Distributions},
+      author = {Vincenzo Coia},
+      year = {2026},
+      note = {R package version 0.2.0},
+      url = {https://distionary.probaverse.com/},
+    }
